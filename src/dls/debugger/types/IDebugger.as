@@ -1,0 +1,1 @@
+﻿package dls.debugger.types {		public interface IDebugger {		function out(message:*):void;	}	}
