@@ -1,1 +1,1 @@
-﻿package dls.debugger.types {		public interface IDebugger {		function out(message:*):void;	}	}
+﻿package dls.debugger.types {		public interface IDebugger {		function out(message:*, source:String = ""):void;	}	}
